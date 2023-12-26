@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.SumCalculatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-12-26T14:58:29" hostname="DIMA" time="0.035">
+  <properties/>
+  <testcase name="testSumWithPositiveInput()" classname="org.example.SumCalculatorTest" time="0.024"/>
+  <testcase name="testSumWithZeroInput()" classname="org.example.SumCalculatorTest" time="0.002"/>
+  <testcase name="testSumWithNegativeInput()" classname="org.example.SumCalculatorTest" time="0.004"/>
+  <system-out><![CDATA[testSumWithPositiveInput passed
+After Each executed
+testSumWithZeroInput passed
+After Each executed
+testSumWithNegativeInput passed for negative input
+testSumWithNegativeInput passed for Integer.MIN_VALUE
+After Each executed
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

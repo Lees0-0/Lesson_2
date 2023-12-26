@@ -1,0 +1,7 @@
+!testSumWithPositiveInput passed
+After Each executed
+testSumWithZeroInput passed
+After Each executed
+4testSumWithNegativeInput passed for negative input
+7testSumWithNegativeInput passed for Integer.MIN_VALUE
+After Each executed
